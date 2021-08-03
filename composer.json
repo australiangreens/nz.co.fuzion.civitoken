@@ -1,5 +1,8 @@
 {
-    "name": "australian_greens/nz.co.fuzion.civitoken",
-    "type": "drupal-module",
-    "description": "Extra tokens for CiviCRM"
+  "name": "australian_greens/nz.co.fuzion.civitoken",
+  "type": "civicrm-ext",
+  "description": "Extra tokens for CiviCRM",
+  "require": {
+    "composer/installers": "^1.6 || ^2"
+  }
 }
